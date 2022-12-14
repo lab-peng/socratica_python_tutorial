@@ -1,0 +1,85 @@
+
+INFO 2022-12-14 16:58:44,294 - Our first message.
+DEBUG 2022-12-14 16:58:44,294 - This is a harmless debug message.
+INFO 2022-12-14 16:58:44,294 - Just some useful info.
+WARNING 2022-12-14 16:58:44,294 - I am sorry but I can't do that, Dave.
+ERROR 2022-12-14 16:58:44,294 - Did you just try to divide by zero?
+CRITICAL 2022-12-14 16:58:44,295 - The war is breaking out now!
+ERROR 2022-12-14 17:02:36,772 - Did you just try to divide by zero?
+CRITICAL 2022-12-14 17:02:36,772 - The war is breaking out now!
+ERROR 2022-12-14 17:28:04,291 - Did you just try to divide by zero?
+CRITICAL 2022-12-14 17:28:04,291 - The war is breaking out now!
+INFO 2022-12-14 17:28:44,486 - Our first message.
+DEBUG 2022-12-14 17:28:44,486 - This is a harmless debug message.
+INFO 2022-12-14 17:28:44,486 - Just some useful info.
+WARNING 2022-12-14 17:28:44,486 - I am sorry but I can't do that, Dave.
+ERROR 2022-12-14 17:28:44,486 - Did you just try to divide by zero?
+CRITICAL 2022-12-14 17:28:44,486 - The war is breaking out now!
+INFO 2022-12-14 17:28:44,487 - quadratic_formula(1, 0, -4)
+DEBUG 2022-12-14 17:28:44,487 - # Compute the discriminant
+DEBUG 2022-12-14 17:28:44,487 - # Compute the two roots
+DEBUG 2022-12-14 17:28:44,487 - # Return the roots
+INFO 2022-12-14 17:29:22,124 - Our first message.
+DEBUG 2022-12-14 17:29:22,124 - This is a harmless debug message.
+INFO 2022-12-14 17:29:22,124 - Just some useful info.
+WARNING 2022-12-14 17:29:22,124 - I am sorry but I can't do that, Dave.
+ERROR 2022-12-14 17:29:22,124 - Did you just try to divide by zero?
+CRITICAL 2022-12-14 17:29:22,124 - The war is breaking out now!
+INFO 2022-12-14 17:29:22,124 - quadratic_formula(1, 0, -4)
+DEBUG 2022-12-14 17:29:22,125 - # Compute the discriminant
+DEBUG 2022-12-14 17:29:22,125 - # Compute the two roots
+DEBUG 2022-12-14 17:29:22,125 - # Return the roots
+INFO 2022-12-14 17:32:11,778 - Our first message.
+DEBUG 2022-12-14 17:32:11,780 - This is a harmless debug message.
+INFO 2022-12-14 17:32:11,780 - Just some useful info.
+WARNING 2022-12-14 17:32:11,780 - I am sorry but I can't do that, Dave.
+ERROR 2022-12-14 17:32:11,780 - Did you just try to divide by zero?
+CRITICAL 2022-12-14 17:32:11,780 - The war is breaking out now!
+INFO 2022-12-14 17:32:11,780 - quadratic_formula(1, 0, 1)
+DEBUG 2022-12-14 17:32:11,780 - # Compute the discriminant
+DEBUG 2022-12-14 17:32:11,780 - # Compute the two roots
+INFO 2022-12-14 17:33:48,679 - Our first message.
+DEBUG 2022-12-14 17:33:48,680 - This is a harmless debug message.
+INFO 2022-12-14 17:33:48,680 - Just some useful info.
+WARNING 2022-12-14 17:33:48,680 - I am sorry but I can't do that, Dave.
+ERROR 2022-12-14 17:33:48,680 - Did you just try to divide by zero?
+CRITICAL 2022-12-14 17:33:48,680 - The war is breaking out now!
+INFO 2022-12-14 17:33:48,680 - quadratic_formula(1, 0, 1)
+DEBUG 2022-12-14 17:33:48,680 - # Compute the discriminant: -4
+INFO 2022-12-14 17:34:53,832 - Our first message.
+DEBUG 2022-12-14 17:34:53,832 - This is a harmless debug message.
+INFO 2022-12-14 17:34:53,832 - Just some useful info.
+WARNING 2022-12-14 17:34:53,832 - I am sorry but I can't do that, Dave.
+ERROR 2022-12-14 17:34:53,832 - Did you just try to divide by zero?
+CRITICAL 2022-12-14 17:34:53,832 - The war is breaking out now!
+INFO 2022-12-14 17:34:53,832 - quadratic_formula(1, 0, 1)
+DEBUG 2022-12-14 17:34:53,832 - # Compute the discriminant: -4
+INFO 2022-12-14 17:35:29,554 - Our first message.
+DEBUG 2022-12-14 17:35:29,555 - This is a harmless debug message.
+INFO 2022-12-14 17:35:29,555 - Just some useful info.
+WARNING 2022-12-14 17:35:29,555 - I am sorry but I can't do that, Dave.
+ERROR 2022-12-14 17:35:29,555 - Did you just try to divide by zero?
+CRITICAL 2022-12-14 17:35:29,555 - The war is breaking out now!
+INFO 2022-12-14 17:35:29,555 - quadratic_formula(1, 0, 1)
+DEBUG 2022-12-14 17:35:29,555 - # Compute the discriminant: -4
+DEBUG 2022-12-14 17:35:29,555 - # Compute the two roots: None, None
+INFO 2022-12-14 17:35:43,934 - Our first message.
+DEBUG 2022-12-14 17:35:43,935 - This is a harmless debug message.
+INFO 2022-12-14 17:35:43,935 - Just some useful info.
+WARNING 2022-12-14 17:35:43,935 - I am sorry but I can't do that, Dave.
+ERROR 2022-12-14 17:35:43,936 - Did you just try to divide by zero?
+CRITICAL 2022-12-14 17:35:43,936 - The war is breaking out now!
+INFO 2022-12-14 17:35:43,936 - quadratic_formula(1, 0, 1)
+DEBUG 2022-12-14 17:35:43,936 - # Compute the discriminant: -4
+DEBUG 2022-12-14 17:35:43,936 - # Compute the two roots: None, None
+DEBUG 2022-12-14 17:35:43,936 - # Return the roots
+INFO 2022-12-14 17:36:00,264 - Our first message.
+DEBUG 2022-12-14 17:36:00,264 - This is a harmless debug message.
+INFO 2022-12-14 17:36:00,264 - Just some useful info.
+WARNING 2022-12-14 17:36:00,264 - I am sorry but I can't do that, Dave.
+ERROR 2022-12-14 17:36:00,264 - Did you just try to divide by zero?
+CRITICAL 2022-12-14 17:36:00,264 - The war is breaking out now!
+INFO 2022-12-14 17:36:00,264 - quadratic_formula(1, 0, -4)
+DEBUG 2022-12-14 17:36:00,264 - # Compute the discriminant: 16
+DEBUG 2022-12-14 17:36:00,264 - # Compute the two roots: 2.0, -2.0
+DEBUG 2022-12-14 17:36:00,264 - # Return the roots
